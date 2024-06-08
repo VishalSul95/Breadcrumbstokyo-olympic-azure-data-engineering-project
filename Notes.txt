@@ -1,0 +1,18 @@
+👉🏻 SELECT
+👉🏻 WHERE CLAUSE
+👉🏻 ORDER BY
+👉🏻 Aggregation function (MIN, MAX, AVG, COUNT)
+👉🏻 JOINS (INNER, LEFT, FULL)
+👉🏻 UNION
+👉🏻 GROUP BY
+👉🏻 CASE STATEMENT
+👉🏻 CTE Statements
+👉🏻 Working with DateTime/TimeStamp (ADDING/SUBTRACTION/EXTRACTING YEAR/MONTH/DAY)
+👉🏻 IFNULL
+👉🏻 COALESCE
+👉🏻 Numbering functions (RANK, DENSE_RANK, ROW_NUMBER)
+👉🏻 Conversion function — CAST as INT/FLOAT/STRING
+👉🏻 Formatting DateTime
+👉🏻 Creating Functions
+👉🏻 MERGE STATEMENT (for UPSERT)
+👉🏻 QUALIFY
